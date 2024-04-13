@@ -4,3 +4,10 @@ export type Expense = {
   amount: number;
   date: Date;
 };
+
+export type Statistic = {
+  minAmount: number;
+  maxAmount: number;
+  sum: number;
+  mean: number;
+};
