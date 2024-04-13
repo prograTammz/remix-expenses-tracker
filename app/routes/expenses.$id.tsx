@@ -1,3 +1,3 @@
 export default function ExpensesDetailPage() {
-  return <h1>Expenses Details</h1>;
+  return <h2>Expenses Details</h2>;
 }

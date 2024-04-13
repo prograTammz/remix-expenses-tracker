@@ -1,5 +1,3 @@
-import { json } from "@remix-run/node";
-
 export default function ExpensesRaw() {
-  return json({ message: "expenses" });
+  return <h2>Expenses Raw File</h2>;
 }

@@ -1,3 +1,3 @@
 export default function ExpensesAddPage() {
-  return <h1>Add Expenses</h1>;
+  return <h2>Add Expenses</h2>;
 }

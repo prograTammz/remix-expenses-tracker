@@ -1,3 +1,3 @@
 export default function ExpensesIndexPage() {
-  return <h1>Expenses</h1>;
+  return <h2>Expenses Home</h2>;
 }

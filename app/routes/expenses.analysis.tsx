@@ -1,3 +1,3 @@
 export default function ExpensesAnalysisPage() {
-  return <h1>Expenses Analysis</h1>;
+  return <h2>Expenses Analysis</h2>;
 }
